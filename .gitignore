@@ -1,0 +1,13 @@
+# Build output and local machine settings
+build/
+.gradle/
+.kotlin/
+.idea/
+local.properties
+*.apk
+*.aab
+.DS_Store
+
+# Working captures and early mockups from development (kept locally, not published)
+/shots/
+/launcher-mockups/
